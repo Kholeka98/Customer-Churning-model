@@ -27,7 +27,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/blastchar
 - Utilize confusion matrix analysis to further assess model performance, including true positives, true negatives, false positives, and false negatives.
 
 
-  ## Summary of Result
+## Summary of Result
 1. Logistic Regression:  
     - Accuracy 79.19%
   
