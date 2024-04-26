@@ -28,7 +28,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/blastchar
 
 
   ## Summary of Result
-  1. Logistic Regression:  
+1. Logistic Regression:  
     - Accuracy 79.19%
   
 2. Random Forest:  
