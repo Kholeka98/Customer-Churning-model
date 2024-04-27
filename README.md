@@ -28,6 +28,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/blastchar
 
 
 ## Summary of Result
+I have uploaded a Jupyter Notebook containing the rest of the code. You can access it [here](https://github.com/Kholeka98/Customer-Churning-model/blob/main/Telco%20Customer%20Churn.ipynb).
 1. Logistic Regression:  
     - Accuracy 79.19%
   
