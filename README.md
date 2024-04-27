@@ -14,7 +14,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/blastchar
 
 ### 2. Feature Selection:
 - Identify a subset of relevant features that are most predictive or influential.
-- Inform feature selection decisions based on insights from EDA.
+- Implemented feature selection by leveraging insights from both exploratory data analysis (EDA) and the correlation matrix.
 
 ### 3. Model Training and Evaluation:
 - Select appropriate machine learning algorithms for the classification task (e.g., logistic regression, random forest, support vector machine, and Decision Tree).
